@@ -1,0 +1,82 @@
+body{
+    background-color: white;
+    padding: 0px;
+    margin: 0px;
+}
+.orange{
+   display: flex;
+    background-color: blueviolet;
+    width: 90%;
+    height: 90%;
+    margin-top: 2px;
+}
+.formulaier{
+   display: flex;
+   height: 500px;
+   background-color: violet;
+   width: 50px;
+   margin-left: 180px;
+   float: right;
+   margin-right: 200px;
+   margin-top: 100px;
+}
+.image{
+   width: 100%;
+   height: 100%;
+   margin-top: 2px;
+}
+.formulaier{
+   color: red;
+}
+.price{
+   display: flex;
+   justify-content: space-between;
+   margin-left: 30px;
+}
+.price input{
+   margin-right: 30px;
+}
+.name{
+   display: flex;
+   justify-content: space-between;
+   margin-left: 30px;
+}
+.name input{
+   color: white;
+}
+.email{
+   display: flex;
+   justify-content: space-between;
+   margin-left: 30px;
+}
+.people select{
+   width: 30px;
+   justify-content: space-between;
+   background-color: blueviolet;
+   border: none;
+   border-bottom: 1px solid white;
+   margin-left: 15px;
+   color: white;
+   margin-right: 40px;
+}
+.commentaire label{
+   height: 100px;
+}
+.commentaire input{
+   height: 100px;
+}
+.phone{
+   display: flex;
+   justify-content: space-between;
+   margin-left: 30px;
+}
+.div2 input{
+   border: none;
+   border-bottom: 1px solid black;
+   background-color: blueviolet;
+   margin-left: 30px;
+}
+.price input{
+   border: none;
+   color: white;
+}
